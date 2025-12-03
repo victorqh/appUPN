@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "appUPN.Controllers.ChatBotController",
+    "Method": "ObtenerHistorial",
+    "RelativePath": "api/ChatBot/history/{sessionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sessionId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "appUPN.Controllers.ChatBotController",
+    "Method": "EnviarMensaje",
+    "RelativePath": "api/ChatBot/message",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "appUPN.Controllers.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
