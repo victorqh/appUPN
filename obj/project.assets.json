@@ -2752,23 +2752,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GOD\\.nuget\\packages\\": {},
+    "C:\\Users\\UPN-VQH\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GOD\\Desktop\\Teste\\repos\\appUPN\\appUPN\\appUPN.csproj",
+      "projectUniqueName": "C:\\Users\\UPN-VQH\\Desktop\\appUPN\\appUPN.csproj",
       "projectName": "appUPN",
-      "projectPath": "C:\\Users\\GOD\\Desktop\\Teste\\repos\\appUPN\\appUPN\\appUPN.csproj",
-      "packagesPath": "C:\\Users\\GOD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GOD\\Desktop\\Teste\\repos\\appUPN\\appUPN\\obj\\",
+      "projectPath": "C:\\Users\\UPN-VQH\\Desktop\\appUPN\\appUPN.csproj",
+      "packagesPath": "C:\\Users\\UPN-VQH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\UPN-VQH\\Desktop\\appUPN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\GOD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\UPN-VQH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

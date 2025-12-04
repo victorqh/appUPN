@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("appUPN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36e913c782281f6d594314d8cd0549625964332d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcd6a21ffe5773480b0fadbfa8badc70e9a436c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("appUPN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("appUPN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
